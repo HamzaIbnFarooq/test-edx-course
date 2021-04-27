@@ -1,0 +1,255 @@
+{
+    "cow.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "cow.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "cow.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@cow.png",
+        "import_path": "cow.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "cow-png.jpg",
+            null
+        ]
+    },
+    "html_x_authlink_javascript.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "html_x_authlink_javascript.html",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "x_authlink_javascript.html",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@html_x_authlink_javascript.html",
+        "import_path": "html/x_authlink_javascript.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "html_x_custom_javascript.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "html_x_custom_javascript.html",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "x_custom_javascript.html",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@html_x_custom_javascript.html",
+        "import_path": "html/x_custom_javascript.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "html_x_dynamic_plot.html": {
+        "contentType": "text/html",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "html_x_dynamic_plot.html",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "x_dynamic_plot.html",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@html_x_dynamic_plot.html",
+        "import_path": "html/x_dynamic_plot.html",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "images_course_image.jpg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_course_image.jpg",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "course_image.jpg",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_course_image.jpg",
+        "import_path": "images/course_image.jpg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_course_image.jpg",
+            null
+        ]
+    },
+    "images_cow.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_cow.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "cow.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_cow.png",
+        "import_path": "images/cow.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_cow-png.jpg",
+            null
+        ]
+    },
+    "images_genetics1.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_genetics1.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "genetics1.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_genetics1.png",
+        "import_path": "images/genetics1.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_genetics1-png.jpg",
+            null
+        ]
+    },
+    "images_magnify.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_magnify.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "magnify.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_magnify.png",
+        "import_path": "images/magnify.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_magnify-png.jpg",
+            null
+        ]
+    },
+    "images_magnifySmall.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_magnifySmall.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "magnifySmall.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_magnifySmall.png",
+        "import_path": "images/magnifySmall.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_magnifySmall-png.jpg",
+            null
+        ]
+    },
+    "images_pedigree.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "images_pedigree.png",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "pedigree.png",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@images_pedigree.png",
+        "import_path": "images/pedigree.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "MITx",
+            "edx4edx",
+            "thumbnail",
+            "images_pedigree-png.jpg",
+            null
+        ]
+    },
+    "js_loupeAndLightbox_README": {
+        "contentType": null,
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "js_loupeAndLightbox_README",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "README",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@js_loupeAndLightbox_README",
+        "import_path": "js/loupeAndLightbox/README",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "js_loupeAndLightbox_jquery.loupeAndLightbox.js": {
+        "contentType": "text/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "edx4edx",
+            "name": "js_loupeAndLightbox_jquery.loupeAndLightbox.js",
+            "org": "MITx",
+            "revision": null,
+            "run": "edx4edx",
+            "tag": "c4x"
+        },
+        "displayname": "jquery.loupeAndLightbox.js",
+        "filename": "asset-v1:MITx+edx4edx+edx4edx+type@asset+block@js_loupeAndLightbox_jquery.loupeAndLightbox.js",
+        "import_path": "js/loupeAndLightbox/jquery.loupeAndLightbox.js",
+        "locked": false,
+        "thumbnail_location": null
+    }
+}

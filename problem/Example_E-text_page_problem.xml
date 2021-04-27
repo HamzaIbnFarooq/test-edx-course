@@ -1,0 +1,14 @@
+<problem points="10" type="lecture" display_name="Example E-text page" rerandomize="never" showanswer="attempted" source_file="src/latex2edx/example-html-text.tex">
+  <text>
+    <p>
+      <h1>Collisions</h1>
+    </p>
+    <p>
+This is some example text, which will be included in course.xml as a HTML file. </p>
+    <p>
+It may include graphics. </p>
+    <p>
+      <img src="/static/html/example-image.png" width="660"/>
+    </p>
+  </text>
+</problem>

@@ -1,0 +1,47 @@
+{
+    "course/edx4edx": {
+        "discussion_topics": {
+            "General": {
+                "id": "edx4edx_General",
+                "sort_key": "A"
+            }
+        },
+        "display_name": "edX Author Course",
+        "graceperiod": "1 days 21599 seconds",
+        "rerandomize": "never",
+        "show_calculator": false,
+        "showanswer": "attempted",
+        "start": "2013-02-19T14:15:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            }
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/edx4edx.xml",
+                "course/edx4edx.xml"
+            ],
+            "ispublic": "True",
+            "semester": "edx4edx"
+        },
+        "xqa_key": "IFRR2YchUinFX69Htmexq92xZ2pMO5Xz"
+    }
+}

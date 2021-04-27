@@ -1,0 +1,12 @@
+<sequential display_name="Sample Problems" format="" Due="Dec 12-25">
+  <problem url_name="Option_Response_problem"/>
+  <problem url_name="Multiple_Choice_problem"/>
+  <problem url_name="String_Response_problem"/>
+  <problem url_name="Numerical_Response_problem"/>
+  <problem url_name="Formula_Response_problem"/>
+  <problem url_name="Symbolic_Math_Response_problem"/>
+  <problem url_name="Image_Response_problem"/>
+  <problem url_name="Custom_Response_problem"/>
+  <problem url_name="Problem_with_solution_problem"/>
+  <problem url_name="Schematic_Response_problem"/>
+</sequential>
